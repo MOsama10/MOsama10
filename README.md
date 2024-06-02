@@ -1,16 +1,5 @@
-<div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-<br>
-
-# Hello, world! 👋
-
-#### You can find me on:
-[Linkedin](https://www.linkedin.com/in/soroush-chehresa) - [Stackoverflow](https://stackoverflow.com/users/9516173/soroush-chehresa) - [Medium](https://medium.com/@soroushchehresa) - [Dribbble](https://dribbble.com/soroushchehresa) - [Twitter](https://twitter.com/soroushchehresa) - [Gmail](mailto:s1996ch@gmail.com)
-<br>
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=soroushchehresa&show_icons=true" />
-<br>
-<br>
-⭐️ From [soroushchehresa](https://github.com/soroushchehresa) 
-</div>
+<h1 align="center">Hi I'm Mohamed 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/-mohamedosama"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/mohammed_osamaa_"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  </p>
