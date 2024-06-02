@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">Hi I'm Mohamed 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/-mohamedosama"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -7,7 +8,7 @@
   <div align="right">
     <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
   </div>
-  
+</div>
   <div align="left">
     <p align="center">  
       <h3 align="center">
