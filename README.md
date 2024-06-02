@@ -6,7 +6,7 @@
   </p>
 <div>
   <div align="right">
-    <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
+    <img src="https://[media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif](https://www.lifewire.com/thmb/kWgyE7SZwrTexmN7B59-NSsWb6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-neural-network-bd8fc6a5fb6f40bba291b64e609ee0b7.jpeg)" align="right" height="300px" width="210px">
   </div>
 
 ## About me :mortar_board:
