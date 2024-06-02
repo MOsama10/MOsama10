@@ -49,4 +49,4 @@ I am a Senior Computer Science and Artificial Intelligence student deeply passio
 </table>
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=MOsama10&show_icons=true" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MOsama10&show_icons=true" /></p>
