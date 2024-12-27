@@ -65,15 +65,3 @@ As I venture into new opportunities, I am particularly interested in roles that 
 </table>
 
 ---
-
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MOsama10&show_icons=true" alt="GitHub Stats"/>
-</p>
-
----
-
-<h2 align="center">GitHub Streak</h2>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOsama10" alt="GitHub Streak Stats"/>
-</p>
