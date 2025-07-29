@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 About Me (The Human Behind The AI)
+##  About Me (The Human Behind The AI)
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" height="300">
 
@@ -40,55 +40,55 @@ class MohamedOsama:
         self.role = "AI Engineer & Data Scientist"
         self.location = "Giza, Egypt 🇪🇬"
         self.education = "Nile University CS&AI Graduate"
-        self.gpa = "3.6/4.0 (Full Merit Scholar 🎓)"
+        self.gpa = "3.6/4.0 (Full Merit Scholar)"
         self.superpower = "Making machines understand humans"
         
     def current_adventures(self):
         return {
-            "fine_tuning": ["Making LLMs smarter than me", "CUDA go brrrr 🚀"],
+            "fine_tuning": ["Making LLMs smarter than me", "CUDA go brrrr "],
             "medical_ai": ["Teaching AI to read X-rays", "Saving radiologists' coffee breaks"],
             "fun_projects": ["Hieroglyphics translator", "Speech-to-speech magic"],
-            "coffee_consumed": "∞ cups ☕",
-            "bugs_created": "Only on Fridays 🐛"
+            "coffee_consumed": "∞ cups ",
+            "bugs_created": "Only on Fridays "
         }
     
     def what_drives_me(self):
         return """
-        🎯 Turning complex AI research into tools people actually use
-        🩻 Making medical AI that doesn't require a PhD to understand  
-        🤖 Building systems that feel magical but work reliably
-        📚 Teaching the next generation to code their dreams
+         Turning complex AI research into tools people actually use
+         Making medical AI that doesn't require a PhD to understand  
+         Building systems that feel magical but work reliably
+         Teaching the next generation to code their dreams
         """
     
     def life_philosophy(self):
-        return "Code with passion, debug with patience, deploy with confidence! ✨"
+        return "Code with passion, debug with patience, deploy with confidence! "
 ```
 
-> **"No amount of knowledge is enough knowledge... but LLMs help a lot!"** 🧠🤖
+> **"No amount of knowledge is enough knowledge... but LLMs help a lot!"** 
 
 ---
 
-## 🏆 Epic Achievements & Battle Scars
+##  Epic Achievements & Battle Scars
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200">
 </div>
 
-🥇 **1st Place** - Graduation Project Showcase (XScene: Making X-rays chatty!)  
-🥉 **3rd Place** - IEEE Helwan RAS Auxillio 6.0  
-🥈 **2nd Place** - IEEE Helwan RAS Auxillio 5.0  
-📑 **Published Researcher** - Bioengineering Journal (Because science is cool!)  
-👨‍🏫 **DEMI Coding Instructor** - Teaching kids to rule the world with AI  
+ **1st Place** - Graduation Project Showcase (XScene: Making X-rays chatty!)  
+ **3rd Place** - IEEE Helwan RAS Auxillio 6.0  
+ **2nd Place** - IEEE Helwan RAS Auxillio 5.0  
+ **Published Researcher** - Bioengineering Journal (Because science is cool!)  
+ **DEMI Coding Instructor** - Teaching kids to rule the world with AI  
 
 ---
 
-## 🛠️ My Arsenal of Destruction (Tech Stack)
+## 🛠 My Arsenal of Destruction (Tech Stack)
 
 <div align="center">
   <img src="https://media.giphy.com/media/cIn5fTcjnKNJI7CAuQ/giphy.gif" width="400" height="250">
 </div>
 
-### 🧠 AI/ML Wizardry
+###  AI/ML Wizardry
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -97,7 +97,7 @@ class MohamedOsama:
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 </p>
 
-### 🚀 Programming Languages
+###  Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -106,7 +106,7 @@ class MohamedOsama:
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
@@ -117,36 +117,30 @@ class MohamedOsama:
 
 ---
 
-## 🎯 Cool Projects That Actually Work!
+##  Cool Projects That Actually Work!
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="200">
 </div>
 
-### 🩻 XScene: The X-ray Whisperer
+###  XScene: The X-ray Whisperer
 **Making radiologists' lives easier, one chest X-ray at a time!**
-- 🤖 **Tech Stack:** Deformable DETR + EGTR + Mistral-7B (The AI dream team!)
-- 🏆 **Achievement:** 1st Place Graduation Project
-- 📊 **Impact:** Generates clinically accurate reports faster than you can say "pneumonia"
+-  **Tech Stack:** Deformable DETR + EGTR + Mistral-7B (The AI dream team!)
+-  **Achievement:** 1st Place Graduation Project
+-  **Impact:** Generates clinically accurate reports faster than you can say "pneumonia"
 
-### 🗣️ Katana NLP-to-SQL: Database Translator
-**"Hey Katana, show me all users from Cairo" → *Magic SQL appears* ✨**
-- 💾 **Tech Stack:** FastAPI + PostgreSQL + SQLCoder
-- 🚀 **Performance:** Sub-second response times (faster than your morning coffee!)
+###  Katana NLP-to-SQL: Database Translator
+**"Hey Katana, show me all users from Cairo" → *Magic SQL appears* **
+-  **Tech Stack:** FastAPI + PostgreSQL + SQLCoder
+-  **Performance:** Sub-second response times (faster than your morning coffee!)
 
-### 🎤 Speech-to-Speech Translation: Babel Fish IRL
+###  Speech-to-Speech Translation: Babel Fish IRL
 **Breaking language barriers like it's 2025!**
-- 🔊 **Tech Stack:** Whisper + XTTS + FastAPI
-- ⚡ **Speed:** 2-second average latency (patience not required!)
-
-### 🏺 Hieroglyphic Translator: Ancient Meets Modern
-**Decoding pharaohs' secrets with transformers!**
-- 🔍 **Tech Stack:** Computer Vision + NLP Transformers
-- 🏛️ **Fun Fact:** Even ancient Egyptians would be impressed!
-
+-  **Tech Stack:** Whisper + XTTS + FastAPI
+-  **Speed:** 2-second average latency (patience not required!)
 ---
 
-## 📊 GitHub Stats That Make Me Look Good
+##  GitHub Stats That Make Me Look Good
 
 <div align="center">
   <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="300" height="200">
@@ -167,22 +161,22 @@ class MohamedOsama:
 
 ---
 
-## 🎭 Fun Facts About Me
+##  Fun Facts About Me
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" height="200">
 </div>
 
-- 🤖 I fine-tune LLMs like they're musical instruments
-- 🩻 I taught AI to read X-rays (and it's better at it than me!)
-- ☕ I run on coffee and CUDA cores
-- 🎯 I can debug code faster than I can debug my life
-- 🌍 I'm making AI more accessible, one project at a time
-- 🏆 Competition winner who peaked in university (kidding... or am I?)
+-  I fine-tune LLMs like they're musical instruments
+-  I taught AI to read X-rays (and it's better at it than me!)
+-  I run on coffee and CUDA cores
+-  I can debug code faster than I can debug my life
+-  I'm making AI more accessible, one project at a time
+-  Competition winner who peaked in university (kidding... or am I?)
 
 ---
 
-## 🚀 Current Mission: World Domination (Through AI)
+##  Current Mission: World Domination (Through AI)
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200">
@@ -200,32 +194,32 @@ current_goals = {
         "Make AI accessible to everyone",
         "Finally understand why my model converged at 3 AM"
     ],
-    "dream": "Build AI that makes the world a better place 🌍"
+    "dream": "Build AI that makes the world a better place "
 }
 ```
 
 ---
 
-## 📫 Let's Connect & Build Something Amazing!
+##  Let's Connect & Build Something Amazing!
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="200">
 </div>
 <div align="center">
   
-**🤝 Always open to:**
+** Always open to:**
 - Collaborating on cool AI projects
 - Discussing the latest in LLMs and computer vision
 - Sharing coffee and coding stories
 - Making AI more human-friendly
 
-**📧 Reach out if you want to:**
+** Reach out if you want to:**
 - Build the next breakthrough AI system
 - Chat about transformers (the AI kind, not the robots!)
 - Exchange war stories from production deployments
-- Just say hi! 👋
+- Just say hi! 
 
 </div>
 
 ---
-  **Thanks for stopping by! Let's make AI magic together! ✨🤖**
+  **Thanks for stopping by! Let's make AI magic together! **
