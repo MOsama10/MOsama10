@@ -19,11 +19,10 @@
   <a href="https://github.com/MOsama10">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:m.osaammaa@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&to=m.osaammaa@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MOsama10&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
