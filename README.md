@@ -82,7 +82,7 @@ class MohamedOsama:
 
 ---
 
-## 🛠 My Arsenal of Destruction (Tech Stack)
+##  My Arsenal of Destruction (Tech Stack)
 
 <div align="center">
   <img src="https://media.giphy.com/media/cIn5fTcjnKNJI7CAuQ/giphy.gif" width="400" height="250">
