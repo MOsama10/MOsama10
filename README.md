@@ -169,7 +169,6 @@ class MohamedOsama:
 - ☕ I run on coffee and CUDA cores
 - 🎯 I can debug code faster than I can debug my life
 - 🌍 I'm making AI more accessible, one project at a time
-- 📚 Former TA who survived 180+ students (and they survived me!)
 - 🏆 Competition winner who peaked in university (kidding... or am I?)
 
 ---
