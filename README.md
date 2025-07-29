@@ -31,7 +31,7 @@
 
 ## 🚀 About Me (The Human Behind The AI)
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" height="300">
 
 ```python
 class MohamedOsama:
@@ -41,17 +41,27 @@ class MohamedOsama:
         self.location = "Giza, Egypt 🇪🇬"
         self.education = "Nile University CS&AI Graduate"
         self.gpa = "3.6/4.0 (Full Merit Scholar 🎓)"
+        self.superpower = "Making machines understand humans"
         
-    def current_status(self):
+    def current_adventures(self):
         return {
-            "working_on": ["LLM Fine-tuning", "Medical AI", "RAG Systems"],
-            "learning": ["Advanced CUDA", "MLOps", "Production AI"],
-            "fun_fact": "I make X-rays talk using AI! 🩻🤖",
-            "coffee_status": "☕ Always brewing new ideas"
+            "fine_tuning": ["Making LLMs smarter than me", "CUDA go brrrr 🚀"],
+            "medical_ai": ["Teaching AI to read X-rays", "Saving radiologists' coffee breaks"],
+            "fun_projects": ["Hieroglyphics translator", "Speech-to-speech magic"],
+            "coffee_consumed": "∞ cups ☕",
+            "bugs_created": "Only on Fridays 🐛"
         }
     
+    def what_drives_me(self):
+        return """
+        🎯 Turning complex AI research into tools people actually use
+        🩻 Making medical AI that doesn't require a PhD to understand  
+        🤖 Building systems that feel magical but work reliably
+        📚 Teaching the next generation to code their dreams
+        """
+    
     def life_philosophy(self):
-        return "Turning coffee into code, and code into AI magic ✨"
+        return "Code with passion, debug with patience, deploy with confidence! ✨"
 ```
 
 > **"No amount of knowledge is enough knowledge... but LLMs help a lot!"** 🧠🤖
