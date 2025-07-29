@@ -209,7 +209,7 @@ current_goals = {
 ## 📫 Let's Connect & Build Something Amazing!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300" height="200">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200">
 </div>
 
 <div align="center">
