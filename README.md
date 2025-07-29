@@ -209,7 +209,7 @@ current_goals = {
 ## 📫 Let's Connect & Build Something Amazing!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="200">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="200">
 </div>
 <div align="center">
   
@@ -228,11 +228,4 @@ current_goals = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="200">
-  
   **Thanks for stopping by! Let's make AI magic together! ✨🤖**
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
