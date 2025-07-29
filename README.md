@@ -31,7 +31,7 @@
 
 ## 🚀 About Me (The Human Behind The AI)
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="500">
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" height="300">
 
 ```python
 class MohamedOsama:
