@@ -1,16 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Coding" width="600" height="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Development" width="600" height="300">
 </div>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hey there! I'm Mohamed Osama
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Mohamed Osama 👋
 </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Data+Scientist;LLM+Fine-tuning+Expert;Published+Researcher;Full-Stack+AI+Developer;Making+Machines+Think+Since+2021!" alt="Typing SVG" />
-</div>
+<h3 align="center">AI Engineer & Data Scientist | LLM Specialist | Published Researcher</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-mohamedosama">
@@ -19,206 +15,170 @@
   <a href="https://github.com/MOsama10">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=m.osaammaa@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:m.osaammaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOsama10&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
 
----
-
-##  About Me (The Human Behind The AI)
-
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" height="300">
-
-```python
-class MohamedOsama:
-    def __init__(self):
-        self.name = "Mohamed Osama"
-        self.role = "AI Engineer & Data Scientist"
-        self.location = "Giza, Egypt 🇪🇬"
-        self.education = "Nile University CS&AI Graduate"
-        self.gpa = "3.6/4.0 (Full Merit Scholar)"
-        self.superpower = "Making machines understand humans"
-        
-    def current_adventures(self):
-        return {
-            "fine_tuning": ["Making LLMs smarter than me", "CUDA go brrrr "],
-            "medical_ai": ["Teaching AI to read X-rays", "Saving radiologists' coffee breaks"],
-            "fun_projects": ["Hieroglyphics translator", "Speech-to-speech magic"],
-            "coffee_consumed": "∞ cups ",
-            "bugs_created": "Only on Fridays "
-        }
-    
-    def what_drives_me(self):
-        return """
-         Turning complex AI research into tools people actually use
-         Making medical AI that doesn't require a PhD to understand  
-         Building systems that feel magical but work reliably
-         Teaching the next generation to code their dreams
-        """
-    
-    def life_philosophy(self):
-        return "Code with passion, debug with patience, deploy with confidence! "
-```
-
-> **"No amount of knowledge is enough knowledge... but LLMs help a lot!"** 
-
----
-
-##  Epic Achievements & Battle Scars
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200">
-</div>
-
- **1st Place** - Graduation Project Showcase (XScene: Making X-rays chatty!)  
- **3rd Place** - IEEE Helwan RAS Auxillio 6.0  
- **2nd Place** - IEEE Helwan RAS Auxillio 5.0  
- **Published Researcher** - Bioengineering Journal (Because science is cool!)  
- **DEMI Coding Instructor** - Teaching kids to rule the world with AI  
-
----
-
-##  My Arsenal of Destruction (Tech Stack)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/cIn5fTcjnKNJI7CAuQ/giphy.gif" width="400" height="250">
-</div>
-
-###  AI/ML Wizardry
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-</p>
-
-###  Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-###  Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=MOsama10&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-##  Cool Projects That Actually Work!
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="200">
-</div>
+I'm a passionate AI Engineer specializing in **Large Language Models**, **RAG architectures**, and **production AI systems**. Currently pursuing my Master's in Data Science while working as Co-Founder & CTO at Vionex Digital Solutions.
 
-###  XScene: The X-ray Whisperer
-**Making radiologists' lives easier, one chest X-ray at a time!**
--  **Tech Stack:** Deformable DETR + EGTR + Mistral-7B (The AI dream team!)
--  **Achievement:** 1st Place Graduation Project
--  **Impact:** Generates clinically accurate reports faster than you can say "pneumonia"
-
-###  Katana NLP-to-SQL: Database Translator
-**"Hey Katana, show me all users from Cairo" → *Magic SQL appears* **
--  **Tech Stack:** FastAPI + PostgreSQL + SQLCoder
--  **Performance:** Sub-second response times (faster than your morning coffee!)
-
-###  Speech-to-Speech Translation: Babel Fish IRL
-**Breaking language barriers like it's 2025!**
--  **Tech Stack:** Whisper + XTTS + FastAPI
--  **Speed:** 2-second average latency (patience not required!)
----
-
-##  GitHub Stats That Make Me Look Good
-
-<div align="center">
-  <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="300" height="200">
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOsama10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOsama10&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOsama10&theme=tokyonight" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOsama10&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
+- 🔭 Currently working on enterprise RAG systems and agentic AI solutions
+- 🌱 Researching advanced LLM optimization techniques (LoRA, quantization, inference acceleration)
+- 📝 Published researcher in medical AI - [Bioengineering Journal 2025](https://www.mdpi.com/2306-5354/12/7/693)
+- 🎓 Master's student in Data Science at Arab Academy for Science, Technology and Maritime Transport
+- 🏆 1st Place Graduate Project Award (XScene - Automated Radiology Report Generation)
+- 💼 Technical Lead at Retailo & AI Instructor at National Telecommunications Institute
+- 📍 Based in Giza, Egypt
 
 ---
 
-##  Fun Facts About Me
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" height="200">
-</div>
+### AI/ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
--  I fine-tune LLMs like they're musical instruments
--  I taught AI to read X-rays (and it's better at it than me!)
--  I run on coffee and CUDA cores
--  I can debug code faster than I can debug my life
--  I'm making AI more accessible, one project at a time
--  Competition winner who peaked in university (kidding... or am I?)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
-##  Current Mission: World Domination (Through AI)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200">
-</div>
-
-```python
-current_goals = {
-    "short_term": [
-        "Make LLMs run faster than my morning routine",
-        "Deploy more AI systems to production",
-        "Write code that doesn't break on Fridays"
-    ],
-    "long_term": [
-        "Revolutionize medical AI (no pressure!)",
-        "Make AI accessible to everyone",
-        "Finally understand why my model converged at 3 AM"
-    ],
-    "dream": "Build AI that makes the world a better place "
-}
-```
+### MLOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
 ---
 
-##  Let's Connect & Build Something Amazing!
+## 🚀 Featured Projects
+
+### 🏥 [XScene: Automated Radiology Report Generation](https://github.com/MOsama10/XScene)
+3-stage AI pipeline combining Deformable DETR, EGTR, and Mistral-7B for clinical report generation
+- **Impact:** 30% quality improvement in report accuracy
+- **Recognition:** 1st Place Graduate Project Award
+- **Publication:** Bioengineering Journal 2025
+
+### 💬 Enterprise RAG System
+Production-ready QA system with semantic search and confidence scoring
+- **Performance:** 90% retrieval accuracy
+- **Features:** CI/CD pipeline, vector databases, automated deployment
+
+### ⚖️ Hybrid Legal Expert System
+Full-stack legal decision-support platform combining rule-based reasoning with RAG
+- **Scale:** 600+ deterministic legal rules
+- **Tech:** Neo4j knowledge graphs, React frontend, FastAPI backend
+
+### 🛒 [Mobility Sales Agent](https://github.com/MOsama10/mobility-sales-agent)
+Intelligent agentic sales assistant using knowledge graphs and RAG
+- **Tech:** Neo4j, LLMs, conversational AI
+- **Deployment:** On-premise production system
+
+### 🔍 [Katana NLP-to-SQL Platform](https://github.com/MOsama10/katana-nlp-sql)
+Offline natural language to SQL system for telecom analytics
+- **Performance:** Sub-second query execution
+- **Optimization:** Inference caching and Docker containerization
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="200">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOsama10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOsama10&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
+
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOsama10&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOsama10&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Professional Experience
+
+**Co-Founder & CTO** @ Vionex Digital Solutions *(Jul 2025 - Present)*
+- Leading AI solution architecture for healthcare and retail sectors
+- Designing scalable ML pipelines and on-premise AI systems
+- Establishing MLOps standards and engineering best practices
+
+**Technical Lead - AI Department** @ Retailo *(Jul 2025 - Present)*
+- Managing AI team operations across NLP and computer vision projects
+- Coordinating with stakeholders for aligned AI solution delivery
+
+**AI Engineer** @ Singularity *(Jul 2024 - May 2025)*
+- Led LLM team of 7 engineers delivering scalable NLP systems
+- Built RAG chatbots with 45% accuracy improvement
+- Reduced inference costs by 50% through LoRA and quantization
+
+**LLM Engineer** @ Digis Squared *(Apr 2025 - Jul 2025)*
+- Achieved 40% faster inference and 60% cost savings through optimization
+- Fine-tuned Mistral and LLaMA models for document processing
+
+---
+
+## 📚 Education & Recognition
+
+**Master of Data Science** - Arab Academy for Science, Technology and Maritime Transport *(2025-2027)*
+
+**Bachelor of Computer Science & AI** - Nile University *(2021-2025)*
+- CGPA: 3.6/4.0
+- Full Merit Scholarship (2021-2025)
+- 1st Place Graduate Project Award
+
+**Awards & Leadership:**
+- 🥇 1st Place - Graduation Project Showcase
+- 🥉 3rd Place - IEEE Helwan RAS Auxillio 6.0
+- 🥈 2nd Place - IEEE Helwan RAS Auxillio 5.0
+- 📖 Published Researcher - Bioengineering Journal
+- 👨‍🏫 AI Instructor at NTI - Trained 200+ professionals
+
+---
+
+## 📝 Publications
+
+**XScene: Automated Radiology Report Generation Using Scene Graphs**
+- Osama, M., et al. (2025). *Bioengineering*, 12(7), Article 693
+- [Read Publication](https://www.mdpi.com/2306-5354/12/7/693)
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 💼 LinkedIn: [linkedin.com/in/-mohamedosama](https://www.linkedin.com/in/-mohamedosama)
+- 📧 Email: m.osaammaa@gmail.com
+- 🐱 GitHub: [github.com/MOsama10](https://github.com/MOsama10)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="200">
   
-** Always open to:**
-- Collaborating on cool AI projects
-- Discussing the latest in LLMs and computer vision
-- Sharing coffee and coding stories
-- Making AI more human-friendly
-
-** Reach out if you want to:**
-- Build the next breakthrough AI system
-- Chat about transformers (the AI kind, not the robots!)
-- Exchange war stories from production deployments
-- Just say hi! 
-
+  **"Building AI systems that make a difference"**
 </div>
 
 ---
+
+<div align="center">
+  <i>Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out.</i>
+</div>
