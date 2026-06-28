@@ -62,9 +62,9 @@ I am a **Full Stack AI Engineer** and **Founder & CEO at Unexa AI**. I am passio
 
 ## 💼 Professional Experience
 
-- 🏢 **Founder & CEO** @ Unexa AI *(Present)*  
-- 🏢 **Co-Founder & Full Stack AI Engineer** @ Vionex Digital Solutions *(Jul 2025 - Present)*  
-- 🏫 **AI Instructor** @ National Telecommunications Institute (NTI) *(Aug 2025 - Present)*  
+- 🏢 **Founder & CEO** @ Unexa AI *(Present)*   
+- 🏫 **AI Instructor** @ National Telecommunications Institute (NTI) *(Aug 2025 - Present)*
+- 🏢 **Co-Founder & Full Stack AI Engineer** @ Vionex Digital Solutions *(Jul 2025 - Jun 2026)* 
 - 💻 **LLM Engineer** @ Digis Squared *(Apr 2025 - Jul 2025)*  
 - 🧠 **AI Engineer** @ Singularity *(Jul 2024 - May 2025)*  
 - 🔬 **Junior Research Assistant** @ Nile University *(Jul 2024 - Jul 2025)*
