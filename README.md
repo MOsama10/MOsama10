@@ -1,184 +1,83 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Development" width="600" height="300">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mohamed%20Osama&fontSize=80&fontAlignY=35&desc=Founder%20%26%20CEO%20at%20Unexa%20AI%20%7C%20Full%20Stack%20AI%20Engineer&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
-<h1 align="center">
-  Hi, I'm Mohamed Osama 👋
-</h1>
-
-<h3 align="center">AI Engineer & Data Scientist | LLM Specialist | Published Researcher</h3>
+<h3 align="center">
+  Building production-ready intelligent systems using LLMs, RAG, and AI Agents
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/-mohamedosama">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/MOsama10">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:m.osaammaa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://www.linkedin.com/in/-mohamedosama"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:m.osaammaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/MOsama10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOsama10&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MOsama10&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate AI Engineer specializing in **Large Language Models**, **RAG architectures**, and **production AI systems**. Currently pursuing my Master's in Data Science while working as Co-Founder & CTO at Vionex Digital Solutions.
+I am a **Full Stack AI Engineer** and **Founder & CEO at Unexa AI**. I am passionate about transforming research into practical products through cloud-native development and Generative AI. 
 
-- 🔭 Currently working on enterprise RAG systems and agentic AI solutions
-- 🌱 Researching advanced LLM optimization techniques (LoRA, quantization, inference acceleration)
-- 📝 Published researcher in medical AI - [Bioengineering Journal 2025](https://www.mdpi.com/2306-5354/12/7/693)
-- 🎓 Master's student in Data Science at Arab Academy for Science, Technology and Maritime Transport
-- 🏆 1st Place Graduate Project Award (XScene - Automated Radiology Report Generation)
-- 💼 Technical Lead at Retailo & AI Instructor at National Telecommunications Institute
-- 📍 Based in Giza, Egypt
+- 🚀 **Founder & CEO** @ **Unexa AI**
+- 🧠 **Co-Founder & Full Stack AI Engineer** @ Vionex Digital Solutions
+- 🎓 **AI Instructor** @ National Telecommunications Institute (NTI)
+- 📝 **Published Researcher** in *Bioengineering* (2025)
+- 🎓 Pursuing a **Master's in Data Science** at AASTMT
 
 ---
 
-## 🛠️ Tech Stack
-
-### AI/ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### MLOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 [XScene: Automated Radiology Report Generation](https://github.com/MOsama10/XScene)
-3-stage AI pipeline combining Deformable DETR, EGTR, and Mistral-7B for clinical report generation
-- **Impact:** 30% quality improvement in report accuracy
-- **Recognition:** 1st Place Graduate Project Award
-- **Publication:** Bioengineering Journal 2025
-
-### 💬 Enterprise RAG System
-Production-ready QA system with semantic search and confidence scoring
-- **Performance:** 90% retrieval accuracy
-- **Features:** CI/CD pipeline, vector databases, automated deployment
-
-### ⚖️ Hybrid Legal Expert System
-Full-stack legal decision-support platform combining rule-based reasoning with RAG
-- **Scale:** 600+ deterministic legal rules
-- **Tech:** Neo4j knowledge graphs, React frontend, FastAPI backend
-
-### 🛒 [Mobility Sales Agent](https://github.com/MOsama10/mobility-sales-agent)
-Intelligent agentic sales assistant using knowledge graphs and RAG
-- **Tech:** Neo4j, LLMs, conversational AI
-- **Deployment:** On-premise production system
-
-### 🔍 [Katana NLP-to-SQL Platform](https://github.com/MOsama10/katana-nlp-sql)
-Offline natural language to SQL system for telecom analytics
-- **Performance:** Sub-second query execution
-- **Optimization:** Inference caching and Docker containerization
-
----
-
-## 📊 GitHub Statistics
+## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOsama10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOsama10&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOsama10&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
+### **AI / Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=flat-square&logo=OpenCV&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-092E20?style=flat-square&logo=openai&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082?style=flat-square&logo=dependabot&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOsama10&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+### **Backend & Frontend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
 </div>
 
 ---
 
-## 🎯 Professional Experience
+## 🚀 Selected AI Projects
 
-**Co-Founder & CTO** @ Vionex Digital Solutions *(Jul 2025 - Present)*
-- Leading AI solution architecture for healthcare and retail sectors
-- Designing scalable ML pipelines and on-premise AI systems
-- Establishing MLOps standards and engineering best practices
-
-**Technical Lead - AI Department** @ Retailo *(Jul 2025 - Present)*
-- Managing AI team operations across NLP and computer vision projects
-- Coordinating with stakeholders for aligned AI solution delivery
-
-**AI Engineer** @ Singularity *(Jul 2024 - May 2025)*
-- Led LLM team of 7 engineers delivering scalable NLP systems
-- Built RAG chatbots with 45% accuracy improvement
-- Reduced inference costs by 50% through LoRA and quantization
-
-**LLM Engineer** @ Digis Squared *(Apr 2025 - Jul 2025)*
-- Achieved 40% faster inference and 60% cost savings through optimization
-- Fine-tuned Mistral and LLaMA models for document processing
+| Project | Description | Highlights |
+| :--- | :--- | :--- |
+| **XScene: Auto Radiology Report Generation** | End-to-end medical AI system for report generation from chest X-rays using Scene Graphs & LLMs. (1st Place Grad Project & Published) | `PyTorch`, `Mistral-7B`, `Computer Vision` |
+| **Hybrid Legal Expert System** | Full-stack platform combining deterministic legal rules, Knowledge Graph retrieval, and RAG. | `FastAPI`, `React`, `Neo4j`, `RAG` |
+| **Enterprise RAG Knowledge Assistant** | Enterprise context-aware semantic search & QA over private organizational data. | `Hugging Face`, `Vector DBs`, `Docker` |
+| **AI Sales Assistant** | Intelligent agent using knowledge graphs to deliver context-aware product recommendations. | `Python`, `Neo4j`, `Knowledge Graphs` |
+| **Katana: NLP to SQL** | Secure enterprise analytics platform for converting natural language to SQL natively on-premise. | `FastAPI`, `SQLCoder`, `llama.cpp` |
+| **Multi-Agent Mental Health System** | Simulating DSM-5 diagnostic interviews via Multi-Agent AI and evidence-based reasoning. | `Multi-Agent AI`, `LLMs`, `RAG` |
 
 ---
 
-## 📚 Education & Recognition
+## 💼 Professional Experience
 
-**Master of Data Science** - Arab Academy for Science, Technology and Maritime Transport *(2025-2027)*
-
-**Bachelor of Computer Science & AI** - Nile University *(2021-2025)*
-- CGPA: 3.6/4.0
-- Full Merit Scholarship (2021-2025)
-- 1st Place Graduate Project Award
-
-**Awards & Leadership:**
-- 🥇 1st Place - Graduation Project Showcase
-- 🥉 3rd Place - IEEE Helwan RAS Auxillio 6.0
-- 🥈 2nd Place - IEEE Helwan RAS Auxillio 5.0
-- 📖 Published Researcher - Bioengineering Journal
-- 👨‍🏫 AI Instructor at NTI - Trained 200+ professionals
+- 🏢 **Founder & CEO** @ Unexa AI *(Present)*  
+- 🏢 **Co-Founder & Full Stack AI Engineer** @ Vionex Digital Solutions *(Jul 2025 - Present)*  
+- 🏫 **AI Instructor** @ National Telecommunications Institute (NTI) *(Aug 2025 - Present)*  
+- 💻 **LLM Engineer** @ Digis Squared *(Apr 2025 - Jul 2025)*  
+- 🧠 **AI Engineer** @ Singularity *(Jul 2024 - May 2025)*  
+- 🔬 **Junior Research Assistant** @ Nile University *(Jul 2024 - Jul 2025)*
 
 ---
 
-## 📝 Publications
-
-**XScene: Automated Radiology Report Generation Using Scene Graphs**
-- Osama, M., et al. (2025). *Bioengineering*, 12(7), Article 693
-- [Read Publication](https://www.mdpi.com/2306-5354/12/7/693)
-
----
-
-## 📫 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 LinkedIn: [linkedin.com/in/-mohamedosama](https://www.linkedin.com/in/-mohamedosama)
-- 📧 Email: m.osaammaa@gmail.com
-- 🐱 GitHub: [github.com/MOsama10](https://github.com/MOsama10)
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="200">
-  
-  **"Building AI systems that make a difference"**
+  <img src="https://github-readme-stats.vercel.app/api?username=MOsama10&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777777" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOsama10&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777777" alt="GitHub Streak" width="48%" />
 </div>
 
----
-
 <div align="center">
-  <i>Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out.</i>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&text=Building%20AI%20systems%20that%20make%20a%20difference.%20✨&fontSize=20&fontColor=0077B5" alt="Footer" />
 </div>
