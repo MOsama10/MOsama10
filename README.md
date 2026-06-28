@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mohamed%20Osama&fontSize=80&fontAlignY=35&desc=Founder%20%26%20CEO%20at%20Unexa%20AI%20%7C%20Full%20Stack%20AI%20Engineer&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohamed%20Osama&fontSize=80&fontAlignY=35&desc=Founder%20and%20CEO%20at%20Unexa%20AI&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
 <h3 align="center">
